@@ -8,8 +8,10 @@ Introducing the different parts of Git.
 
 
 ## Purpose
-
+Some purpose
 
 ## Deployment
 
+some deployement
+changes
 ## How to Contribute
