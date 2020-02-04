@@ -14,4 +14,6 @@ Some purpose
 
 some deployement
 changes
+
+Copyright
 ## How to Contribute
